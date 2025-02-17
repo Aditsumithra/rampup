@@ -1,0 +1,14 @@
+C:\Users\rsumithra\source\repos\Call a Public Function in General\bin\Debug\net8.0\Call a Public Function in General.exe
+C:\Users\rsumithra\source\repos\Call a Public Function in General\bin\Debug\net8.0\Call a Public Function in General.deps.json
+C:\Users\rsumithra\source\repos\Call a Public Function in General\bin\Debug\net8.0\Call a Public Function in General.runtimeconfig.json
+C:\Users\rsumithra\source\repos\Call a Public Function in General\bin\Debug\net8.0\Call a Public Function in General.dll
+C:\Users\rsumithra\source\repos\Call a Public Function in General\bin\Debug\net8.0\Call a Public Function in General.pdb
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\Call a Public Function in General.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\Call a Public Function in General.AssemblyInfoInputs.cache
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\Call a Public Function in General.AssemblyInfo.cs
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\Call a Public Function in General.csproj.CoreCompileInputs.cache
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\Call a Public Function in General.dll
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\refint\Call a Public Function in General.dll
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\Call a Public Function in General.pdb
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\Call a Public Function in General.genruntimeconfig.cache
+C:\Users\rsumithra\source\repos\Call a Public Function in General\obj\Debug\net8.0\ref\Call a Public Function in General.dll
