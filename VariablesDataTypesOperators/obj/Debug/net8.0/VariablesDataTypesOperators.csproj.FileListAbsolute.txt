@@ -1,0 +1,14 @@
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\bin\Debug\net8.0\VariablesDataTypesOperators.exe
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\bin\Debug\net8.0\VariablesDataTypesOperators.deps.json
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\bin\Debug\net8.0\VariablesDataTypesOperators.runtimeconfig.json
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\bin\Debug\net8.0\VariablesDataTypesOperators.dll
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\bin\Debug\net8.0\VariablesDataTypesOperators.pdb
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\VariablesDataTypesOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\VariablesDataTypesOperators.AssemblyInfoInputs.cache
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\VariablesDataTypesOperators.AssemblyInfo.cs
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\VariablesDataTypesOperators.csproj.CoreCompileInputs.cache
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\VariablesDataTypesOperators.dll
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\refint\VariablesDataTypesOperators.dll
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\VariablesDataTypesOperators.pdb
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\VariablesDataTypesOperators.genruntimeconfig.cache
+C:\Users\rsumithra\source\repos\VariablesDataTypesOperators\obj\Debug\net8.0\ref\VariablesDataTypesOperators.dll

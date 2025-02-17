@@ -1,0 +1,14 @@
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\bin\Debug\net8.0\Prime using Class obj instance.exe
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\bin\Debug\net8.0\Prime using Class obj instance.deps.json
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\bin\Debug\net8.0\Prime using Class obj instance.runtimeconfig.json
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\bin\Debug\net8.0\Prime using Class obj instance.dll
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\bin\Debug\net8.0\Prime using Class obj instance.pdb
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\Prime using Class obj instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\Prime using Class obj instance.AssemblyInfoInputs.cache
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\Prime using Class obj instance.AssemblyInfo.cs
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\Prime using Class obj instance.csproj.CoreCompileInputs.cache
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\Prime using Class obj instance.dll
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\refint\Prime using Class obj instance.dll
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\Prime using Class obj instance.pdb
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\Prime using Class obj instance.genruntimeconfig.cache
+C:\Users\rsumithra\source\repos\Prime using Class obj instance\obj\Debug\net8.0\ref\Prime using Class obj instance.dll

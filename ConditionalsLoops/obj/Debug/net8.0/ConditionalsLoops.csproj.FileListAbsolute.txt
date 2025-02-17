@@ -1,0 +1,14 @@
+C:\Users\rsumithra\source\repos\ConditionalsLoops\bin\Debug\net8.0\ConditionalsLoops.exe
+C:\Users\rsumithra\source\repos\ConditionalsLoops\bin\Debug\net8.0\ConditionalsLoops.deps.json
+C:\Users\rsumithra\source\repos\ConditionalsLoops\bin\Debug\net8.0\ConditionalsLoops.runtimeconfig.json
+C:\Users\rsumithra\source\repos\ConditionalsLoops\bin\Debug\net8.0\ConditionalsLoops.dll
+C:\Users\rsumithra\source\repos\ConditionalsLoops\bin\Debug\net8.0\ConditionalsLoops.pdb
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\ConditionalsLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\ConditionalsLoops.AssemblyInfoInputs.cache
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\ConditionalsLoops.AssemblyInfo.cs
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\ConditionalsLoops.csproj.CoreCompileInputs.cache
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\ConditionalsLoops.dll
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\refint\ConditionalsLoops.dll
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\ConditionalsLoops.pdb
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\ConditionalsLoops.genruntimeconfig.cache
+C:\Users\rsumithra\source\repos\ConditionalsLoops\obj\Debug\net8.0\ref\ConditionalsLoops.dll

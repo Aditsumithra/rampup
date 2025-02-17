@@ -1,0 +1,14 @@
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\Triple Sum for Equal Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\Triple Sum for Equal Integers.AssemblyInfoInputs.cache
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\Triple Sum for Equal Integers.AssemblyInfo.cs
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\Triple Sum for Equal Integers.csproj.CoreCompileInputs.cache
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\bin\Debug\net8.0\Triple Sum for Equal Integers.exe
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\bin\Debug\net8.0\Triple Sum for Equal Integers.deps.json
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\bin\Debug\net8.0\Triple Sum for Equal Integers.runtimeconfig.json
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\bin\Debug\net8.0\Triple Sum for Equal Integers.dll
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\bin\Debug\net8.0\Triple Sum for Equal Integers.pdb
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\Triple Sum for Equal Integers.dll
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\refint\Triple Sum for Equal Integers.dll
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\Triple Sum for Equal Integers.pdb
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\Triple Sum for Equal Integers.genruntimeconfig.cache
+C:\Users\rsumithra\source\repos\Triple Sum for Equal Integers\obj\Debug\net8.0\ref\Triple Sum for Equal Integers.dll
